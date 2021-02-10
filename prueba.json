@@ -1,0 +1,68 @@
+[
+  {
+    "titulo": "Spiderman",
+    "genero": "Accion",
+    "idioma": "Español",
+    "duracion": "02:35:02",
+    "calificacion": "10",
+    "resumen": "hombre araña",
+    "anio_produccion": "1972",
+    "formato": "HD",
+    "director": "Sam Raimi",
+    "clasificacion": "B",
+    "imagen": "https://n9.cl/2yf0v0"
+  },
+  {
+    "titulo": "Superman",
+    "genero": "Accion",
+    "idioma": "Español",
+    "duracion": "03:35:02",
+    "calificacion": "8",
+    "resumen": "super hombre",
+    "anio_produccion": "1980",
+    "formato": "HD",
+    "director": "Sam Raimi",
+    "clasificacion": "B",
+    "imagen": "https://n9.cl/py61t"
+  },
+  {
+    "titulo": "Avengers",
+    "genero": "	Acción, ciencia ficción",
+    "idioma": "inglés",
+    "duracion":"02:30:15",
+    "calificacion": "9",
+    "resumen": "The Avengers: Los Vengadores",
+    "anio_produccion": "2012",
+    "formato": "4K",
+    "director": "Joss Whedon",
+    "clasificacion": "pg-13",
+    "imagen": "https://n9.cl/jpuu"
+  },
+  {
+    "titulo": "Titanic",
+    "genero": "Drama",
+    "idioma": "Español",
+    "duracion": "02:35:02",
+    "calificacion": "10",
+    "resumen": "hombre araña",
+    "anio_produccion": "1972",
+    "formato": "HD",
+    "director": "Sam Raimi",
+    "clasificacion": "B",
+    "imagen": "https://cutt.ly/PkUCq1p"
+  },
+  {
+    "titulo": "Iron man 3",
+    "genero": "Acción, aventuras, ciencia ficción, cine de, superhéroes y comedia",
+    "idioma": "español",
+    "duracion":"02:30:15",
+    "calificacion": "7",
+    "resumen": "Película de superhéroes estadounidense de 2013",
+    "anio_produccion": "2013",
+    "formato": "4K",
+    "director": "Shane Black",
+    "clasificacion": "pg-15",
+    "imagen": "https://n9.cl/y6m18"
+  }
+]
+
